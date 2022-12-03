@@ -1,2 +1,8 @@
-# freent-module-win32
-FreeNT module for running and installing Microsoft Windows programs
+# Win32 for OpenWindows
+A FreeNT module for running and installing Microsoft Windows programs.
+## Motivation
+FreeNT is an open-source project. Win32 is a proprietary product. The goal
+of FreeNT is to "create the Windows kernel without proprietary code".
+
+This FreeNT module adds support for Win32. This is an important part of
+OpenWindows.
