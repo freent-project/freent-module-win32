@@ -1,0 +1,8 @@
+[FreeNT.kernelModule]
+name = "Win32 on OpenWindows"
+description = "Run most Microsoft Windows applications in OpenWindows."
+default-enabled = "edition"
+default-enabled-editions = {"WORKSTATION"}
+antifeatures = {"non-free-deps"}
+setup-scripts = {"download-dlls"}
+scripts = {"vm"}
