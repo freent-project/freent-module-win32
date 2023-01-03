@@ -1,6 +1,9 @@
 # Win32 for OpenWindows
+
 A FreeNT module for running and installing Microsoft Windows programs.
-## Motivation
+
+## Why not include Win32 with OpenWindows?
+
 FreeNT is an open-source project. Win32 is a proprietary product. The goal
 of FreeNT is to "create the Windows kernel without proprietary code", so Win32
 cannot be included within FreeNT itself.
