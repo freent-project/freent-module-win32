@@ -2,5 +2,5 @@
 name = "Win32 on OpenWindows"
 description = "Run most Microsoft Windows applications in OpenWindows."
 antiFeatures = {"non-free-deps"}
-setupScripts = {"download-dlls"}
+setupScripts = {"download-qemu", "windows-iso", "notify"}
 scripts = {"vm"}
